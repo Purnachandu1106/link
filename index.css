@@ -341,7 +341,7 @@ img{
     display: flex;
     flex-direction: column;
     align-items: center;
-   padding-left: 10px;
+  
     margin-top: 10px;
   
 }
@@ -445,6 +445,12 @@ img{
         height: 100vh;
         margin-bottom: 170px;
     }
+    .pv{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+    }
     .card5{
         margin: 10px;
     }
@@ -460,7 +466,9 @@ img{
    .flex1{
     margin-top: 200px;
    }
-   
+   iframe{
+    margin-left: 120px;
+   }
  }
  
 
